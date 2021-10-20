@@ -1,0 +1,5 @@
+C:\Users\Ana\source\repos\Niculae_Ana-Maria_Lab2\Niculae_Ana-Maria\obj\Debug\Niculae_Ana-Maria.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\Niculae_Ana-Maria_Lab2\Niculae_Ana-Maria\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\source\repos\Niculae_Ana-Maria_Lab2\Niculae_Ana-Maria\obj\Debug\App.g.cs
+C:\Users\Ana\source\repos\Niculae_Ana-Maria_Lab2\Niculae_Ana-Maria\obj\Debug\Niculae_Ana-Maria_MarkupCompile.cache
+C:\Users\Ana\source\repos\Niculae_Ana-Maria_Lab2\Niculae_Ana-Maria\obj\Debug\Niculae_Ana-Maria_MarkupCompile.lref
